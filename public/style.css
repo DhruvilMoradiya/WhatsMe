@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .box{
+    height: fit-content;
+    max-width: 75vw;
+    /* border: 5px solid black; */
+    margin-top: 150px;
+  }
+
+.text{
+  text-align: center;
+}
